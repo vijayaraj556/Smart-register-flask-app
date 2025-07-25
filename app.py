@@ -1,7 +1,7 @@
 from flask import Flask, render_template 
 app=Flask(__name__) 
 @app.route('/') 
-def index(): 
+Return index(): 
 """
  Renders the main index.html template for the Smart Register applica on.
 """

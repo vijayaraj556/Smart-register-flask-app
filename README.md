@@ -1,1 +1,0 @@
-# Smart-register-flask-app
